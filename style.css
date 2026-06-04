@@ -16,13 +16,15 @@ body{
 .header-rigth{
     padding: 10px;
     margin-right: 20px;
+    font-size: 15px;
+    cursor: pointer;
 }
 
 .header-left{
     padding: 10px;
     margin-left: 20px;
     cursor: pointer;
-
+    font-size: 40px;
 }
 
 
@@ -35,4 +37,17 @@ body{
     cursor: pointer;     
 }
 
+.intro{
+    background-color: #1F2937;
+    flex-direction: row; 
+    color: #F9FAF8;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.intro div{
+    border: 1px;
+    padding: 40px;
+}
 
