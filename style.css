@@ -49,5 +49,10 @@ body{
 .intro div{
     border: 1px;
     padding: 40px;
+    background-color: #e2e6ec;
+    flex-direction: column;
+    color: rgb(12, 136, 219);
+    justify-content: space-between;
+    align-items: center;
 }
 
